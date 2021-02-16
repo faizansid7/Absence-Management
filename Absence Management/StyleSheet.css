@@ -1,0 +1,54 @@
+﻿body {    height: 206px;
+}
+
+.container {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: 'Oxygen', sans-serif;
+    border-radius: 18px;
+    box-shadow: 2px 2px 10px black;
+}
+
+ .container:hover {
+   
+   border:0.5px solid black;
+}
+
+.TopContainers {
+    margin-top: 25px;
+    margin-left: 25px;
+    margin-right: 0px;
+    font-size: 33px;
+}
+.Receivedcontainer {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: 'Oxygen', sans-serif;
+    border-radius: 18px;
+    box-shadow: 2px 2px 10px #0094ff;
+    float: left;
+}
+.Approvedcontainer {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: 'Oxygen', sans-serif;
+    border-radius: 18px;
+    box-shadow: 2px 2px 10px #b6ff00;
+    float: left;
+}
+.Rejectedcontainer {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: 'Oxygen', sans-serif;
+    border-radius: 18px;
+    box-shadow: 2px 2px 10px #ff6a00;
+    float: left;
+}
+.Rejectedcontainer1 {
+    margin-top: 30px;
+    margin-left: 30px;
+    font-family: 'Oxygen', sans-serif;
+    border-radius: 18px;
+    box-shadow: 2px 2px 10px #ff6a00;
+    float: none;
+}
