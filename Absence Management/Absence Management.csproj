@@ -72,6 +72,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Dashboard.aspx" />
+    <Content Include="EmployeeDetail.css" />
     <Content Include="EmployeeDetails.aspx" />
     <Content Include="StyleSheet.css" />
     <Content Include="Web.config" />

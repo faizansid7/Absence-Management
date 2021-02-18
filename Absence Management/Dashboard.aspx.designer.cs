@@ -40,15 +40,6 @@ namespace Absence_Management {
         protected global::Telerik.Web.UI.RadContentTemplateTile PendingLeavessTile;
         
         /// <summary>
-        /// TileList1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadTileList TileList1;
-        
-        /// <summary>
         /// RequestMonthly control.
         /// </summary>
         /// <remarks>
@@ -56,15 +47,6 @@ namespace Absence_Management {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::Telerik.Web.UI.RadContentTemplateTile RequestMonthly;
-        
-        /// <summary>
-        /// RequestYearly control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile RequestYearly;
         
         /// <summary>
         /// ApprovedMonthly control.
@@ -76,15 +58,6 @@ namespace Absence_Management {
         protected global::Telerik.Web.UI.RadContentTemplateTile ApprovedMonthly;
         
         /// <summary>
-        /// ApprovedYearly control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile ApprovedYearly;
-        
-        /// <summary>
         /// RejectedMonthly control.
         /// </summary>
         /// <remarks>
@@ -94,15 +67,6 @@ namespace Absence_Management {
         protected global::Telerik.Web.UI.RadContentTemplateTile RejectedMonthly;
         
         /// <summary>
-        /// RejectedYearly control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile RejectedYearly;
-        
-        /// <summary>
         /// TotalEmployee control.
         /// </summary>
         /// <remarks>
@@ -110,6 +74,15 @@ namespace Absence_Management {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::Telerik.Web.UI.RadContentTemplateTile TotalEmployee;
+        
+        /// <summary>
+        /// DepartmentTileList control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Telerik.Web.UI.RadTileList DepartmentTileList;
         
         /// <summary>
         /// RadContentTemplateTile1 control.
@@ -139,48 +112,39 @@ namespace Absence_Management {
         protected global::Telerik.Web.UI.RadContentTemplateTile FinanceDept;
         
         /// <summary>
-        /// RadContentTemplateTile2 control.
+        /// ITDept control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile RadContentTemplateTile2;
+        protected global::Telerik.Web.UI.RadContentTemplateTile ITDept;
         
         /// <summary>
-        /// PieChartMonthly control.
+        /// RadHtmlChart2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Telerik.Web.UI.RadHtmlChart PieChartMonthly;
+        protected global::Telerik.Web.UI.RadHtmlChart RadHtmlChart2;
         
         /// <summary>
-        /// PieChartYearly control.
+        /// RadHtmlChart3 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Telerik.Web.UI.RadHtmlChart PieChartYearly;
+        protected global::Telerik.Web.UI.RadHtmlChart RadHtmlChart3;
         
         /// <summary>
-        /// RadGrid1 control.
+        /// AbsenceRatioGraph control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Telerik.Web.UI.RadGrid RadGrid1;
-        
-        /// <summary>
-        /// RadHtmlChart1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadHtmlChart RadHtmlChart1;
+        protected global::Telerik.Web.UI.RadHtmlChart AbsenceRatioGraph;
     }
 }

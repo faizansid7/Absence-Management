@@ -103,60 +103,6 @@ namespace Absence_Management {
         protected global::Telerik.Web.UI.RadContentTemplateTile MonthlySick;
         
         /// <summary>
-        /// ConsumedPaidAnnual control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile ConsumedPaidAnnual;
-        
-        /// <summary>
-        /// ConsumedPaidMonthly control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile ConsumedPaidMonthly;
-        
-        /// <summary>
-        /// ConsumedUnpaidAnnual control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile ConsumedUnpaidAnnual;
-        
-        /// <summary>
-        /// ConsumedUnpaidMonthly control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile ConsumedUnpaidMonthly;
-        
-        /// <summary>
-        /// ConsumedSickAnnual control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile ConsumedSickAnnual;
-        
-        /// <summary>
-        /// ConsumedSickMonthly control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile ConsumedSickMonthly;
-        
-        /// <summary>
         /// NationalHolidays control.
         /// </summary>
         /// <remarks>
@@ -166,13 +112,13 @@ namespace Absence_Management {
         protected global::Telerik.Web.UI.RadContentTemplateTile NationalHolidays;
         
         /// <summary>
-        /// RadContentTemplateTile1 control.
+        /// InternationalHoliday control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::Telerik.Web.UI.RadContentTemplateTile RadContentTemplateTile1;
+        protected global::Telerik.Web.UI.RadContentTemplateTile InternationalHoliday;
         
         /// <summary>
         /// HtmlDonutChart control.
@@ -182,5 +128,23 @@ namespace Absence_Management {
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::Telerik.Web.UI.RadHtmlChart HtmlDonutChart;
+        
+        /// <summary>
+        /// WorkfromHome control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Telerik.Web.UI.RadContentTemplateTile WorkfromHome;
+        
+        /// <summary>
+        /// ExtraWork control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::Telerik.Web.UI.RadContentTemplateTile ExtraWork;
     }
 }
